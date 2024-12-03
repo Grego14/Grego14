@@ -71,3 +71,9 @@ It went from 72 points to **91** in **performance** using those techniques.
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510&card_height=200)](https://git.io/streak-stats)
+
+#### Hackerrank certificates
+
+<div style='border: 2px solid white; display: inline-block; padding: .5rem'>
+    <img src='./problem_solving_basic_certificate.png' width='350' height='280' alt='Hackerrank problem solving basic certificate' style='vertical-align: middle'>
+</div>
