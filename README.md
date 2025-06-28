@@ -1,4 +1,4 @@
-Frontend developer specializing in modern web applications. I build dynamic, responsive, and accessible interfaces using cutting-edge technologies and best practices.
+Frontend developer specialized in modern web development. I build performant, responsive and accessible user interfaces with current technologies and clean code standards.
 
 ## 🚀 Featured Projects
 
@@ -8,7 +8,7 @@ Frontend developer specializing in modern web applications. I build dynamic, res
 
 A dynamic ticket generator that allows users to customize and download their conference pass. Implemented a canvas rendering solution for ticket downloads.
 
-**Tech Stack:** React · HTML2Canvas · CSS Modules.
+**Tech Stack:** React · HTML2Canvas.
 
 ---
 
@@ -18,9 +18,7 @@ A dynamic ticket generator that allows users to customize and download their con
 
 Interactive product catalog with cart functionality featuring smooth animations and state management.
 
-**Tech Stack:** React · Motion · Vite · Biome · Context API.
-
----
+**Tech Stack:** React · Motion · Context API.
 
 ## 💻 Technical Skills
 
@@ -41,14 +39,15 @@ Interactive product catalog with cart functionality featuring smooth animations 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510)](https://git.io/streak-stats)
-
+---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grego14&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📜 Certifications
 
-<div align="center">
-    <img src="./problem_solving_basic_certificate.png" width="400" alt="HackerRank Problem Solving Certificate">
-    <p>HackerRank Problem Solving (Basic) Certification</p>
+<div style='display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center;'>
+    <img src="./problem_solving_basic_certificate.png" width="400" alt="HackerRank Problem Solving Basic Certificate">
+    <img src="./frontend_developer_react_certificate.png" width="400" alt="HackerRank Frontend Developer Certificate">
+    <img src="./javascript_basic_certificate.png" width="400" alt="HackerRank JavaScript Basic Certificate">
 </div>
 
 ## 📫 Let's Connect
