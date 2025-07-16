@@ -1,5 +1,17 @@
 Frontend developer specialized in modern web development. I build performant, responsive and accessible user interfaces with current technologies and clean code standards.
 
+# 👉 Working on...
+An application for project management designed to help users organize their work efficiently, both individually and collaboratively. It integrates a **cloud-based** database and user **authentication system** powered by Firebase, ensuring secure access and **real-time** data synchronization.
+
+## Key features include:
+-   **User Authentication:** Secure login and account management.
+-   **Project Creation**: Users can create, edit, and categorize projects.
+-   **Task Management**: Add, assign, track, and complete tasks within projects.
+-   **Collaboration**: Share projects and tasks with others for teamwork.
+-   **Real-Time Updates**.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎟️ Conference Ticket Generator
