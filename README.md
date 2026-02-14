@@ -1,18 +1,23 @@
 Frontend developer specialized in modern web development. I build performant, responsive and accessible user interfaces with current technologies and clean code standards.
 
-# 👉 Working on...
-An application for project management designed to help users organize their work efficiently, both individually and collaboratively. It integrates a **cloud-based** database and user **authentication system** powered by Firebase, ensuring secure access and **real-time** data synchronization.
-
-## Key features include:
--   **User Authentication:** Secure login and account management.
--   **Project Creation**: Users can create, edit, and categorize projects.
--   **Task Management**: Add, assign, track, and complete tasks within projects.
--   **Collaboration**: Share projects and tasks with others for teamwork.
--   **Real-Time Updates**.
-
 ---
 
 ## 🚀 Featured Projects
+
+### TaskFlow
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://apptaskflow.netlify.app/)[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grego14/taskflow)
+
+An application for project management designed to help users organize their work efficiently, both individually and collaboratively. It integrates a **cloud-based** database and user **authentication system** powered by Firebase, ensuring secure access and **real-time** data synchronization.
+
+#### Key Fetures
+-   **User Authentication:** Secure login and account management.
+-   **Task Management**: Add, assign, complete tasks and subtasks within projects.
+-   **Collaboration**: Work in collaboratively projects with others.
+-   **Real-Time Updates**: See project changes inmediately.
+-   **UX/UI**: Simple UI with cool animations/transitions and great user experience.
+
+---
 
 ### 🎟️ Conference Ticket Generator
 
@@ -25,8 +30,7 @@ A dynamic ticket generator that allows users to customize and download their con
 ---
 
 ### 🛒 E-commerce Product Listing
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://product-cart-with-list.netlify.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grego14/FrontendMentor_Challenges/tree/main/challenges/product-list-with-cart-main)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://product-cart-with-list.netlify.app/) [![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grego14/FrontendMentor_Challenges/tree/main/challenges/product-list-with-cart-main)
 
 Interactive product catalog with cart functionality featuring smooth animations and state management.
 
