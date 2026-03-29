@@ -55,6 +55,9 @@ Interactive product catalog with cart functionality featuring smooth animations 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510)](https://git.io/streak-stats)
+
+### My contributions
+![Grego14-space-shooter.gif](./Grego14-space-shooter.gif)
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grego14&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
