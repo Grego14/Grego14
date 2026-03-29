@@ -1,10 +1,12 @@
-Frontend developer specialized in modern web development. I build performant, responsive and accessible user interfaces with current technologies and clean code standards.
+# Who am I? 🤷‍♂️
+
+**Self-taught Frontend developer** specialized in modern web development. I focus on building performant, responsive, accessible user interfaces with great **user experience** using current technologies and clean code standards.
 
 ---
 
 ## 🚀 Featured Projects
 
-### TaskFlow
+### 🌟 TaskFlow 
 
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://apptaskflow.netlify.app/)[![Source Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grego14/taskflow)
 
@@ -16,6 +18,20 @@ An application for project management designed to help users organize their work
 -   **Collaboration**: Work in collaboratively projects with others.
 -   **Real-Time Updates**: See project changes inmediately.
 -   **UX/UI**: Simple UI with cool animations/transitions and great user experience.
+
+#### Version 2 improvements: (2026)
+-   **App Demo**: Use the app without creating an account!
+-   **Better UI**: New styles and layout to the components/rutes, more colors
+and animations!
+-   **Performance**: Removed useless code, files, and centralized the logic of
+the app so we avoid code repetition. Preact migration.
+-   **Working on**:
+    -   Project templates.
+    -   Save the data created on the demo.
+    -   Implement the use of the Real-Time DB on the tasks.
+    -   Add the KANBAN preview.
+
+**Tech Stack**: Preact · Material UI · I18Next · Firebase · GSAP · Pragmatic DnD · MUI X-Charts · React Hook Form · React Router Dom · React Query · MUI Icons.
 
 ---
 
@@ -39,12 +55,17 @@ Interactive product catalog with cart functionality featuring smooth animations 
 ## 💻 Technical Skills
 
 ### Frontend
+![Preact](https://img.shields.io/badge/Preact-CEB7F6?style=for-the-badge&logo=preact&logoColor=673BB7)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+<!-- br... -->
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F6CEC3?style=for-the-badge&logo=firebase&logoColor=E34F26)
+![I18Next](https://img.shields.io/badge/I18Next-C4EFF9?style=for-the-badge&logo=i18next&logoColor=58C4DC)
+![GSAP](https://img.shields.io/badge/GSAP-CFF0C1?style=for-the-badge&logo=gsap&logoColor=6FB150)
+![MUI](https://img.shields.io/badge/MUI-B2D3F4?style=for-the-badge&logo=mui&logoColor=007FFF)
 
 ### Tools & Workflow
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -59,7 +80,6 @@ Interactive product catalog with cart functionality featuring smooth animations 
 ### My contributions
 ![Grego14-space-shooter.gif](./Grego14-space-shooter.gif)
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grego14&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📜 Certifications
 
