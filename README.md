@@ -1,6 +1,8 @@
 # 👨‍💻 Hi, I'm Gregorio
 
-**Self-taught Frontend Developer** specialized in building performant, responsive, and user-centric web applications.
+**Self-taught Frontend Developer** specialized in building performant and responsive web applications.
+
+Currently learning **C++** and improving my skills on **DSA**.
 
 ---
 
