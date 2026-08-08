@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Gregorio
+# 👨‍💻 Hi, I'm Gregorio  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorio-pi%C3%B1ero/)
 
 **Self-taught Frontend Developer** specialized in building performant and responsive web applications.
 
@@ -28,11 +28,6 @@ An application for project management designed to help users organize their work
 and animations!
 -   **Performance**: Removed useless code, files, and centralized the logic of
 the app so we avoid code repetition. Preact migration.
--   **Working on**:
-    -   Project templates.
-    -   Save the data created on the demo.
-    -   Implement the use of the Real-Time DB on the tasks.
-    -   Add the KANBAN preview.
 
 ---
 
@@ -70,18 +65,14 @@ A dynamic ticket generator that allows users to customize and download their con
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510)](https://git.io/streak-stats)
 
-### My contributions
 ![Grego14-space-shooter.gif](./Grego14-space-shooter.gif)
 ---
 
 ## 📜 Certifications
 
 <div style='display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center;'>
-    <img src="./problem_solving_basic_certificate.png" width="400" alt="HackerRank Problem Solving Basic Certificate">
-    <img src="./frontend_developer_react_certificate.png" width="400" alt="HackerRank Frontend Developer Certificate">
-    <img src="./javascript_basic_certificate.png" width="400" alt="HackerRank JavaScript Basic Certificate">
+    <img src="./problem_solving_basic_certificate.png" width="600" alt="HackerRank Problem Solving Basic Certificate">
+    <img src="./frontend_developer_react_certificate.png" width="600" alt="HackerRank Frontend Developer Certificate">
+    <img src="./javascript_basic_certificate.png" width="600" alt="HackerRank JavaScript Basic Certificate">
+    <img src="./javascript_intermediate_certificate.png" width="600" alt="HackerRank JavaScript Intermediate Certificate">
 </div>
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregorio-pi%C3%B1ero/)
