@@ -63,7 +63,11 @@ A dynamic ticket generator that allows users to customize and download their con
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Grego14&theme=tokyonight&hide_border=true&border_radius=15&card_width=510" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grego14&theme=one_dark_pro&hide_border=true&layout=compact" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Grego14&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false"/>
+</div>
 
 ![Grego14-space-shooter.gif](./Grego14-space-shooter.gif)
 ---
