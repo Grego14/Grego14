@@ -2,7 +2,7 @@
 
 **Self-taught Frontend Developer** specialized in building performant and responsive web applications.
 
-Currently learning **C++** and improving my skills on **DSA**.
+Currently learning **C++**, improving my skills on **DSA** and studying with the fullstack open course!
 
 ---
 
